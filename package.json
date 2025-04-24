@@ -1,0 +1,13 @@
+{
+	"name": "com.game5mobile.hierarchysearch",
+	"version": "1.0.0",
+	"displayName": "Hierarchy Search",
+	"description": "Search object in hierarchy",
+	"unity": "2021.3",
+	"unityRelease": "4f1",
+	"author": {
+		"name": "Game5mobile",
+		"email": "info@game5mobile.com",
+		"url": "https://www.game5mobile.com"
+	}
+}
